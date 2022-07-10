@@ -1,7 +1,7 @@
 # Crick-Inshorts
 Consulting and Analytics Club,IIT Guwahati
 
-# This project was completed with training accuracy of 90% and testing accuracy of 75%
+## This project was completed with training accuracy of 90% and testing accuracy of 75%
 
 This is a project where in we have trained a model which can take in an input video and crop it in such a way that it will automatically crop all the batting parts of the video which could futher be used for analysis purposes.
 
